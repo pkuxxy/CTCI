@@ -1,0 +1,19 @@
+6.1   (3+1)/(3/6) = 8
+
+6.2   Impossible. The 8*8 chess board has 32 black squares and 32 white squares. The two diagonally opposite corners must be the same color. By cutting off them, the chess board will have 30 of one color and 32 of the other color. For example, let's assume we have 30 white squares and 32 black squares.
+      Each domino takes up one black square and one white square. Therefore, 31 dominos will take up 31 black squares and 31 white squares, but there are just 30 white squares and 32 black squares on the board. So it is impossible.
+
+6.3    5 quart jug		3 quart jug			Operation
+	   0			     3			   Filled 3 quart jug
+	   3			     0			   Filled 5 quart jug with 3 quart jug
+	   3			     3			   Filled 3 quart jug
+	   5			     1			   Filled 5 quart jug with 3 quart jug
+	   0			     1			   Dumped 5 quart water
+	   1			     0			   Filled 5 quart jug with 3 quart jug
+	   1			     3			   Filled 3 quart jug
+	   4			     0			   Filled 5 quart jug with 3 quart jug
+
+6.4   
+
+6.5   We go to Floor 14, then 27, then 39, бн This takes 14 steps maximum.
+6.6   10
